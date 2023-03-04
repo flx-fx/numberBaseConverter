@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="16" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.main" target="16" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="16" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="16" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="16" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="16" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="16" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Gold_mining.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Round_and_power.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Division.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Max.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Percentage.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Simple_expression.main" target="16" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="16" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Case_insensitive.main" target="16" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Exchange.main" target="16" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-From_A_to_B.main" target="16" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-The_last_of_u.main" target="16" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Theory.main" target="16" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Void.main" target="16" />
+      <module name="Number_Base_Converter.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
